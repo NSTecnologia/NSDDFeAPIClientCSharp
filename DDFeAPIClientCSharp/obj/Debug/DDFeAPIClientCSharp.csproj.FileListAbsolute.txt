@@ -20,3 +20,27 @@ C:\Users\mathe\Documents\NSTecnologia\Exemplos Linguagens\DDFe\NSDDFeAPIClientCS
 C:\Users\mathe\Documents\NSTecnologia\Exemplos Linguagens\DDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.csproj.CopyComplete
 C:\Users\mathe\Documents\NSTecnologia\Exemplos Linguagens\DDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.exe
 C:\Users\mathe\Documents\NSTecnologia\Exemplos Linguagens\DDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.pdb
+E:\ExemplosCodigoFonteNS\NSDDFeAPIClientCSharp-master\DDFeAPIClientCSharp\bin\Debug\DDFeAPIClientCSharp.exe.config
+E:\ExemplosCodigoFonteNS\NSDDFeAPIClientCSharp-master\DDFeAPIClientCSharp\bin\Debug\DDFeAPIClientCSharp.exe
+E:\ExemplosCodigoFonteNS\NSDDFeAPIClientCSharp-master\DDFeAPIClientCSharp\bin\Debug\DDFeAPIClientCSharp.pdb
+E:\ExemplosCodigoFonteNS\NSDDFeAPIClientCSharp-master\DDFeAPIClientCSharp\bin\Debug\Newtonsoft.Json.dll
+E:\ExemplosCodigoFonteNS\NSDDFeAPIClientCSharp-master\DDFeAPIClientCSharp\bin\Debug\Newtonsoft.Json.xml
+E:\ExemplosCodigoFonteNS\NSDDFeAPIClientCSharp-master\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.csprojAssemblyReference.cache
+E:\ExemplosCodigoFonteNS\NSDDFeAPIClientCSharp-master\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.Properties.Resources.resources
+E:\ExemplosCodigoFonteNS\NSDDFeAPIClientCSharp-master\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.csproj.GenerateResource.cache
+E:\ExemplosCodigoFonteNS\NSDDFeAPIClientCSharp-master\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.csproj.CoreCompileInputs.cache
+E:\ExemplosCodigoFonteNS\NSDDFeAPIClientCSharp-master\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.csproj.CopyComplete
+E:\ExemplosCodigoFonteNS\NSDDFeAPIClientCSharp-master\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.exe
+E:\ExemplosCodigoFonteNS\NSDDFeAPIClientCSharp-master\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.pdb
+C:\NSIntegracao\NSDDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\bin\Debug\DDFeAPIClientCSharp.exe.config
+C:\NSIntegracao\NSDDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\bin\Debug\DDFeAPIClientCSharp.exe
+C:\NSIntegracao\NSDDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\bin\Debug\DDFeAPIClientCSharp.pdb
+C:\NSIntegracao\NSDDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\bin\Debug\Newtonsoft.Json.dll
+C:\NSIntegracao\NSDDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\bin\Debug\Newtonsoft.Json.xml
+C:\NSIntegracao\NSDDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.csprojAssemblyReference.cache
+C:\NSIntegracao\NSDDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.Properties.Resources.resources
+C:\NSIntegracao\NSDDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.csproj.GenerateResource.cache
+C:\NSIntegracao\NSDDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.csproj.CoreCompileInputs.cache
+C:\NSIntegracao\NSDDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.csproj.CopyComplete
+C:\NSIntegracao\NSDDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.exe
+C:\NSIntegracao\NSDDFe\NSDDFeAPIClientCSharp\DDFeAPIClientCSharp\obj\Debug\DDFeAPIClientCSharp.pdb

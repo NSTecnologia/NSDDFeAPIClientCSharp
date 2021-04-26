@@ -69,27 +69,21 @@ namespace DDFeAPIClientCSharp
         public static string manifestacao(string CNPJInteressado, string tpEvento, string nsu, string xJust = "", string chave = "")
         {
 
-            ManifestacaoJSON parametros = new ManifestacaoJSON();
-            parametros.CNPJInteressado = CNPJInteressado;
-
-            if (string.IsNullOrEmpty(nsu))
+            ManifestacaoJSON parametros = new ManifestacaoJSON()
             {
-                parametros.chave = chave;
-            } 
-            else
-            {
-                parametros.nsu = nsu;
-            }
-
-            parametros.manifestacao.tpEvento = tpEvento;
-            
-            if (tpEvento.Equals("210240"))
-            {
-                parametros.manifestacao.xJust = xJust;
-            }
-
+                CNPJInteressado = CNPJInteressado,
+                chave = (string.IsNullOrEmpty(nsu) ? chave : null),
+                nsu = (string.IsNullOrEmpty(chave) ? nsu : null),
+                manifestacao = new Manifestacao()
+                {
+                    tpEvento = tpEvento,
+                    xJust = (tpEvento.Equals("210240") ? xJust : null)
+                }
+            };
 
             string json = JsonConvert.SerializeObject(parametros, new JsonSerializerSettings { NullValueHandling = NullValueHandling.Ignore });
+
+
 
             string url = "https://ddfe.ns.eti.br/events/manif";
 
@@ -396,12 +390,15 @@ namespace DDFeAPIClientCSharp
             public string nsu = null;
             public string chave = null;
             public Manifestacao manifestacao;
+
         }
+
         public class Manifestacao
         {
-            public string tpEvento = null;
-            public string xJust = null;
+            public string tpEvento;
+            public string xJust;
         }
+
 
         //Download Unico
         public class DownloadUnicoJSON

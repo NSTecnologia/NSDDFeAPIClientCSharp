@@ -27,9 +27,17 @@ namespace DDFeAPIClientCSharp
 
                   * String resposta = DDFeAPI.downloadLote(CNPJInteressado, caminho, tpAmb, ultNSU, dhInicial, dhFinal, modelo,
                                         apenasPendManif, incluirPdf, apenasComXml, comEventos);
+              - Aqui um exemplo de chamada do evento de manifestação
+                    * String resposta = DDFeAPI.manifestacao(CNPJInteressado, tpEvento, nsu, xJust, chave);
 
-              Para maiores informações, consulte a documentação no link: https://confluence.ns.eti.br/display/PUB/C%23+-+DDF-e+API, e entre em contato com a equipe de integração
+              Para maiores informações, consulte a documentação no link: https://docsnstecnologia.wpcomstaging.com/docs/ns-ddfe/consumo-da-api-ns-ddfe/download-de-documentos/, e entre em contato com a equipe de integração
            */
+            string CNPJInteressado = "07364617000135";
+            string tpEvento = "210200";
+            string nsu = "";
+            string xJust = "";
+            string chave = "43210400063354950072559200000009241538520136";
+            String resposta = DDFeAPI.manifestacao(CNPJInteressado, tpEvento, nsu, xJust, chave);
         }
     }
 }
